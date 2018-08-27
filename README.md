@@ -7,54 +7,36 @@
 
 ## Meredith McNulty
 
-### Assignment # Requirements:
+### LIS4369 Requirements:
 
-*Sub-Heading:*
+*Course Work Links*
 
-1. Ordered-list items
-2. 
-3. 
+1. A1 README.md
+	* Install Python
+	* Install R
+	* Install R Studio
+	* Install Visual Studio Code
+	* Create a1_tip_calculator application
+	* Provide screenshots of installations
+	* Create Bitbucket repo
+	* Complete Bitbucket tutorial (bitbucketstationlocations)
+	* Provide git command descriptions
 
-#### README.md file should include the following items:
+2. A2 README.md
+	* TBD
+	
+3. A3 README.md
+	* TBD
 
-* Bullet-list items
-* 
-* 
-* 
+4. A4 README.md
+	* TBD
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
+5. A5 README.md	
+	* TBD
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+6. P1 README.md	
+	* TBD
 
-#### Assignment Screenshots:
+7. P2 README.md	
+	* TBD
 
-*Screenshot of AMPPS running http://localhost*:
-
-![AMPPS Installation Screenshot](img/ampps.png)
-
-*Screenshot of running java Hello*:
-
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
-
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
