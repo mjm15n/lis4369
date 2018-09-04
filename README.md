@@ -11,7 +11,7 @@
 
 *Course Work Links*
 
-1. A1 README.md
+1. [A1 README.md](a1/A1 README.md)
 	* Install Python
 	* Install R
 	* Install R Studio
