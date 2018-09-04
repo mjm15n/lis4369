@@ -39,23 +39,16 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of a1_tip_calculator application running (IDLE)*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![Tip Calculator Screenshot IDLE](img/TIP_IDLE.png)
 
-*Screenshot of running java Hello*:
+*Screenshot of a1_tip_calculator application running (Visual Studio Code)*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
+![Tip Calculator Screenshot Visual Studio](img/TIP_VS.png)
 
 
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
 [A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
