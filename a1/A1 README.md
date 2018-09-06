@@ -11,7 +11,7 @@
 
 *Four Parts:*
 
-1. Distributed Version COntrol with Git and Bitbucket
+1. Distributed Version Control with Git and Bitbucket
 2. Development Installations
 3. Questions
 4. Bitbucket repo links:
