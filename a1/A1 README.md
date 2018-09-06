@@ -51,4 +51,4 @@
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
+[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/meredithmcnulty/bitbucketstationlocations/ "Bitbucket Station Locations")
