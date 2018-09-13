@@ -22,8 +22,9 @@
 	* Complete Bitbucket tutorial (bitbucketstationlocations)
 	* Provide git command descriptions
 
-2. A2 README.md
-	* TBD
+2. [A2 README.md](a2/A2 README.md)
+	* Create a2_payroll_calculator
+	* Provide screenshots of overtime vs. no overtime results
 	
 3. A3 README.md
 	* TBD
