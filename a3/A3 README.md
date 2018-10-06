@@ -7,25 +7,22 @@
 
 ## Meredith McNulty
 
-### Assignment 2 Requirements:
+### Assignment 3 Requirements:
 
 *Two Parts:*
 
-1. Using functions
-2. Bitbucket repo links:
+1. Backward-engineer (using Python) the following screenshots
+2. Be sure to test your program using both IDLE and Visual Studio Code.
+3. Bitbucket repo links:
 	a) this assignment
 
 #### README.md file should include the following items:
 
-* Screenshot of a2_payroll_calculator application running *
+* Screenshot of painting_estimator application running *
 
 
 #### Assignment Screenshots:
 
-*Screenshot of a2_payroll_calculator application no overtime*:
+*Screenshot of painting_estimator application*:
 
-![Payroll Calculator Screenshot No Overtime](img/no_overtime.png)
-
-*Screenshot of a2_payroll_calculator application with overtime*:
-
-![Payroll Calculator Screenshot With Overtime](img/overtime.png)
+![Painting Estimator Screenshot](img/painting_estimator.png)

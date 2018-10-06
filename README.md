@@ -27,7 +27,8 @@
 	* Provide screenshots of overtime vs. no overtime results
 	
 3. A3 README.md
-	* TBD
+	* Create painting_estimator
+	* Provide screenshot of application running
 
 4. A4 README.md
 	* TBD
