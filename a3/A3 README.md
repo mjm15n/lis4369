@@ -25,4 +25,4 @@
 
 *Screenshot of painting_estimator application*:
 
-![Painting Estimator Screenshot](img/painting_estimator.png)
+![Painting Estimator Screenshot](img/paint.png)

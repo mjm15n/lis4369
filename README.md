@@ -26,7 +26,7 @@
 	* Create a2_payroll_calculator
 	* Provide screenshots of overtime vs. no overtime results
 	
-3. A3 README.md
+3. [A3 README.md](a3/A3 README.md)
 	* Create painting_estimator
 	* Provide screenshot of application running
 
