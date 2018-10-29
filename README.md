@@ -36,8 +36,10 @@
 5. A5 README.md	
 	* TBD
 
-6. P1 README.md	
-	* TBD
+6. [P1 README.md](p1/P1 README.md)
+	* Code and run demo.py. (Note: *be sure* necessary packages are installed!)
+	* Use it to backward-engineer the screenshot provided.
+	* Provide screenshot of code/graph
 
 7. P2 README.md	
 	* TBD
