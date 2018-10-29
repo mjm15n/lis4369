@@ -7,7 +7,7 @@
 
 ## Meredith McNulty
 
-### Assignment 3 Requirements:
+### Project 1 Requirements:
 
 *Three Parts:*
 
