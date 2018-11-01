@@ -19,6 +19,8 @@
 #### README.md file should include the following items:
 
 * Screenshot of demo.py running *
+* Screenshot of graph running *
+
 
 
 #### Assignment Screenshots:
@@ -26,3 +28,7 @@
 *Screenshot of output running*:
 
 ![Output Screenshot](img/output.png)
+
+*Screenshot of graph running*:
+
+![Graph Screenshot](img/graph.png)
