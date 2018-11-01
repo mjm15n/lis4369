@@ -7,22 +7,22 @@
 
 ## Meredith McNulty
 
-### Assignment 3 Requirements:
+### Assignment 4 Requirements:
 
 *Two Parts:*
 
-1. Backward-engineer (using Python) the following screenshots
-2. Be sure to test your program using both IDLE and Visual Studio Code.
+1. Code and run demo.py. (Note: *be sure* necessary packages are installed!)
+2. Then. use it to backward-engineer the screenshots below it.
 3. Bitbucket repo links:
 	a) this assignment
 
 #### README.md file should include the following items:
 
-* Screenshot of painting_estimator application running *
+* Screenshot of demo.py running *
 
 
 #### Assignment Screenshots:
 
-*Screenshot of painting_estimator application*:
+*Screenshot of output running*:
 
-![Painting Estimator Screenshot](img/paint.png)
+![Output Screenshot](img/output.png)

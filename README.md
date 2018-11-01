@@ -11,7 +11,7 @@
 
 *Course Work Links*
 
-1. [A1 README.md](a1/A1 README.md)
+1. [A1 README.md](a1/a1_README.md)
 	* Install Python
 	* Install R
 	* Install R Studio
@@ -22,22 +22,24 @@
 	* Complete Bitbucket tutorial (bitbucketstationlocations)
 	* Provide git command descriptions
 
-2. [A2 README.md](a2/A2 README.md)
+2. [A2 README.md](a2/a2_README.md)
 	* Create a2_payroll_calculator
 	* Provide screenshots of overtime vs. no overtime results
 	
-3. [A3 README.md](a3/A3 README.md)
+3. [A3 README.md](a3/a3_README.md)
 	* Create painting_estimator
 	* Provide screenshot of application running
 
-4. A4 README.md
-	* TBD
+4. [A4 README.md](a4/a4_README.md)
+	* Code and run demo.py.
+	* Use it to backward-engineer the screenshot provided.
+	* Provide screenshot of code/graph
 
 5. A5 README.md	
 	* TBD
 
-6. [P1 README.md](p1/P1 README.md)
-	* Code and run demo.py. (Note: *be sure* necessary packages are installed!)
+6. [P1 README.md](p1/p1_README.md)
+	* Code and run demo.py.
 	* Use it to backward-engineer the screenshot provided.
 	* Provide screenshot of code/graph
 
