@@ -9,7 +9,7 @@
 
 ### Assignment 4 Requirements:
 
-*Two Parts:*
+*Three Parts:*
 
 1. Code and run demo.py. (Note: *be sure* necessary packages are installed!)
 2. Then. use it to backward-engineer the screenshots below it.
@@ -20,8 +20,6 @@
 
 * Screenshot of demo.py running *
 * Screenshot of graph running *
-
-
 
 #### Assignment Screenshots:
 

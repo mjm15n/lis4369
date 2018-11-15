@@ -19,7 +19,6 @@
 
 * Screenshot of a2_payroll_calculator application running *
 
-
 #### Assignment Screenshots:
 
 *Screenshot of a2_payroll_calculator application no overtime*:

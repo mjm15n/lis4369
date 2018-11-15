@@ -9,7 +9,7 @@
 
 ### Assignment 3 Requirements:
 
-*Two Parts:*
+*Three Parts:*
 
 1. Backward-engineer (using Python) the following screenshots
 2. Be sure to test your program using both IDLE and Visual Studio Code.
@@ -19,7 +19,6 @@
 #### README.md file should include the following items:
 
 * Screenshot of painting_estimator application running *
-
 
 #### Assignment Screenshots:
 

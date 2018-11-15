@@ -35,8 +35,10 @@
 	* Use it to backward-engineer the screenshot provided.
 	* Provide screenshot of code/graph
 
-5. A5 README.md	
-	* TBD
+5. [A5 README.md](a5/a5_README.md)
+	* Complete the tutorial: Introduction_to_R_Setup_and_Tutorial
+	* Code and run lis4369_a5.R
+	* Include at least two plots in README.md file
 
 6. [P1 README.md](p1/p1_README.md)
 	* Code and run demo.py.
