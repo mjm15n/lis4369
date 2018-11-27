@@ -43,8 +43,9 @@
 6. [P1 README.md](p1/p1_README.md)
 	* Code and run demo.py.
 	* Use it to backward-engineer the screenshot provided.
-	* Provide screenshot of code/graph
+	* Provide screenshots of code/graph
 
-7. P2 README.md	
-	* TBD
+7. [P2 README.md](p2/p2_README.md)	
+	* Use Assignment 5 screenshots and R Manual to backward-engineer Motor Trend Car Road Tests data
+	* Provide screenshots of code output & plots
 

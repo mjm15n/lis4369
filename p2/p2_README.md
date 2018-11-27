@@ -27,7 +27,7 @@
 
 *Screenshot of output running*:
 
-![Output Screenshot](img/output.pdf)
+![Output Screenshot](img/output.png)
 
 *Screenshot of plots running*:
 
